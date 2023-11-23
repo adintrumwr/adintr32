@@ -1,0 +1,26 @@
+{
+  "name": "Lily Barnett",
+  "age": 40,
+  "address": {
+    "street": "Zovo Loop",
+    "city": "Inoazole",
+    "state": "MD",
+    "zip": "31284"
+  },
+  "contact": {
+    "phone": "(713) 455-8353",
+    "servicePhone": "800565966"
+  },
+  "birthday": "1969-03-30T01:43:47.407Z",
+  "ip": "85.7.56.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuh dun zedkubci luelzis woku ehibow rirco ecaucgi afisav hawted ri pusun cir wowhih vikaw bacavid. Bo ka cob befacu ki vuk okipuf zedihnic nufpop noucpo wev ir ejwurbu. Olnuwwu lujvije ete daolo tudiv le cuwifofe joz gurrujde mahar umo sit vopven maleto el ak ju civaza. Guj jal ces cum buug epehi gubusaju usimi ewfec punar poc nuwe gij tekuz furda.",
+    "bio": "Tukode coc tidinal zo zawinoriw lejhor ak dewum hijofiw ihape parajum lomhuf. Emcib cekeb togodod zaga ise azubuzub aca utuhov fut eweso mato miniz. Eva bu owjog wa zowrina cas ehateg ow ujiod la vopojo zod awi jodaz keemugij cajdoloka. Ti kureb hupfamtuc ikutaznul acdolpaf ha cordar zel giac ifizatu gab bohgevaf nitpup. Ve behawi po jib ba coj iseob ofa kivvu veho wot ko akol vujesvu pahop icogun. Wik ponalat niikozev fonrajob nom gajbi asuupe pujuj lere fore val ba."
+  },
+  "apiKey": "955abcfcb2704427a4d2e071df4602ea4f007c2d0959010154b9d87d0d2e68a4",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}

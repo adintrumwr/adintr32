@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Moore",
+  "age": 33,
+  "address": {
+    "street": "Homu Extension",
+    "city": "Hifejso",
+    "state": "NV",
+    "zip": "78532"
+  },
+  "contact": {
+    "phone": "(322) 213-3507",
+    "servicePhone": "800236763"
+  },
+  "birthday": "2000-12-29T09:11:17.334Z",
+  "ip": "122.49.158.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Maike fon coc juwhoep najuw fipud vuja vej rogziuw tupag ridudped ovuhi sehzir. Toow pujo lat vih naulo dasi kap fut wiruobe kuhpuveg lidig ce sevaro puseciv ihegoh vimjukon ruj masevde. Sevsapof bodfil tafu kiuvnav olihewuf kutdi vuot rumap buc nup otavewoc rar.",
+    "bio": "Wenovwew matsabmu safepa hadhehi onewovar zaloj uczoh pifidpe vufo mosjul pu morjaote uphe bopmotgi wizisasa viced. Filhiwal vuac nu iciucima heucza ropedo ifba doj ufewiv wuse toede tagviv ezme sevgad. Diluf bo ses zipge kar etranur tuge wacki seuvar kasajzer elazuni ahitiven. Go guog luzvaf ogesu fep ikvo figal bavoja bubapci bel desinpez lavte."
+  },
+  "apiKey": "341fa29f2bb5ba6155d6df1ea0c719b2317e01d7a5dfb1f82eb1d283fda67300",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Hettie Hines",
+  "age": 23,
+  "address": {
+    "street": "Huha Heights",
+    "city": "Konodje",
+    "state": "SD",
+    "zip": "05240"
+  },
+  "contact": {
+    "phone": "(932) 749-1645",
+    "servicePhone": "800825121"
+  },
+  "birthday": "1984-11-25T10:53:39.514Z",
+  "ip": "126.225.68.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Kokowuk ruzit ac ja gadaudu foggujep halle doumusu za ecoteuk ko tusiguoh hipji. Ov rarbopjo codbissaw niape odekotvuz lohlimu buav vuj mut acevuwvaz gubden otiwinu. Bovledcic umtadnig tikgeri es weuj af tetov kohe fugabe fil ketsamce ki.",
+    "bio": "Kaczethaz sotlasfu mezus comol buv juizomac fuftuv velot rotauvu cawbezre suuresum gomsuji jeuze sebe opeg mukgi ol leb. Rezo uzekook ke wogwu keploj patdat paw baruf toac ma ohni le. Zomfa huscal dasab tog mu wanubu ih roali nol up koiw aca toz to. Calobus gesaek nubah desciar difbu ru ovi hufga het posov pianugag me werloh os uro ifo cibric zahcono. Izliebu tuon izuuh we zorji zueliegu ketepji izuvuom vif cablil tivmarhe azlu racla kafa guku relergum ref. Vuspimhij apupan zomokdop ewta ukoepwu efa goda bawuwus jicwu mevaf bamserzo habulo abnuk caseg memwuhre ramif."
+  },
+  "apiKey": "5c4ef31c327c55702e6e6072f1153de916bf050126ce0db43ccb55898f2f9d4a",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}

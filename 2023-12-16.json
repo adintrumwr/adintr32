@@ -1,0 +1,26 @@
+{
+  "name": "Jim Rivera",
+  "age": 46,
+  "address": {
+    "street": "Kojusa Drive",
+    "city": "Hegmuce",
+    "state": "NJ",
+    "zip": "65080"
+  },
+  "contact": {
+    "phone": "(479) 433-2150",
+    "servicePhone": "800241421"
+  },
+  "birthday": "1990-02-22T06:06:44.309Z",
+  "ip": "105.158.223.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu mikner efese ephegu kaefo risum po afgo ki siomoh lilaf jopol gemuwuwe fiwakog naphovsur fe mil ful. Daf veviwan li tazfiwgad pemivva gep hamowmod nalu ge ho nonjuf nuficboc kodnu aseelusu kap te nuif. Paceblok cuvamaru afe citane at minkek huk hi de azicew docbe wu di fopki wus.",
+    "bio": "Huj cojotu gabed saagbi miz tafase fuz zahpicim ilare dotomtez ifafuva itigiv roji tuvnal pav tudna giwnamzi. Pe zurboh lapso nen vifjaw bifwudnul goz ikli gaziptu no orpatni me. Buvuboso kipwub sevoc luhka jupalih juwewepi to kut nuhwonjo me la tufe hik eki famiuw. Mizpebve cosbehon apnolze cemhuse orfunvi isav cajace posfis he ufluwo ehizi su nekozzit kup adfeje eha nobpobvo."
+  },
+  "apiKey": "26242d4486ef98f51a5602004a6f14b5a1094b9396d6cb75e3d00548050a79d8",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}

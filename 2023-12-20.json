@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Jackson",
+  "age": 41,
+  "address": {
+    "street": "Avuja Trail",
+    "city": "Pumuzac",
+    "state": "TN",
+    "zip": "07433"
+  },
+  "contact": {
+    "phone": "(978) 809-2019",
+    "servicePhone": "800645296"
+  },
+  "birthday": "1971-05-11T13:46:32.995Z",
+  "ip": "15.62.45.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Edane gu okhog rittu togpen fadmave siafo hud lup cedizpe apugika gamlarbo zesiiru usviknic fazgaaj bigiv udikabage. Darlaj gu idi ke rupim otsu faf bo jo am ahoverun le pujajho. Jaggo miphuk iguwiv felavu ico saatibih od pu icakoca wet timto ihsefag cispapife.",
+    "bio": "Rog zupsunef kaode futu va tipmiuzu jar cedownep arlocu fesvevi ikaigu epadafev cu pisfutja mag gaawifi vegpej. Vubinaj lamcecem ivobar gobe wifpug ufufeoc pipadca laisef fo la jajhoz heak kelaod abguwe. Dosig ur gisrur da opizoju jelu lujvuhab tarbeon co juvo odgo bu ore rocod. Mibuc ivafegi cebjezi su uwfiw age ururon velmiicu imarabo jon jo duno nuzle."
+  },
+  "apiKey": "ec34c9c27f0880e56693266b3a8c7587651ed2dd8c397b0e96e9914349f085dc",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}

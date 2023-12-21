@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Simpson",
+  "age": 50,
+  "address": {
+    "street": "Empi Pike",
+    "city": "Honase",
+    "state": "CA",
+    "zip": "73548"
+  },
+  "contact": {
+    "phone": "(559) 541-1057",
+    "servicePhone": "800541877"
+  },
+  "birthday": "1996-04-13T09:30:14.749Z",
+  "ip": "99.157.28.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Owo sod ehemupga zibag jalle ocanu epabuka poal git jafovaf luba mogonloz cepdair rufo anper cu. Modnioga hafo nuarihod weozlot kam hokci avupedi vabepami elelicep pakojeru fuji buvuple habi mopuz cikfodu. Hassilfi go coemlok zo zezcobu dugiej izke fapkob iwugovdo fecedti lebnukhi uga gev ug faheev vavdojleg upori liwegisi. Esowak coure obobogdeh ure cepuuh up sejujosuk vok katiz bar piknahpo de zeworguk ere. Jim mi sud tipsojmo jaewu gaf fewuik ruwidiw pad oriro gaurben gacevwo pez.",
+    "bio": "Jo muggol im git nabef pidusal jolil sud viazeom fonpampit otoledo hogevek mo tifwo ubisimu pacor. Mozehnaj vop lur ezoiko bata bi uju ro hinik iweruwej re elizas rami nopeaj fiva jawjem. Lulneir cihzi naud rizaik sadet hev ti eg veemovar nosugojo en co cot tievmi sup wogbej lovi sah. Hu azoisa agwohkus ja pedmocat pazosran bes ulu kaltuan fa heg ejgizwuf ud sopmu owujo."
+  },
+  "apiKey": "df8d9da08303e560c25fff00361133fb7009e77fe485e20aa221a09c413be71e",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}

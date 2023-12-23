@@ -1,0 +1,26 @@
+{
+  "name": "Marc Bishop",
+  "age": 33,
+  "address": {
+    "street": "Gofar Point",
+    "city": "Disucod",
+    "state": "AK",
+    "zip": "90584"
+  },
+  "contact": {
+    "phone": "(252) 392-8805",
+    "servicePhone": "800332144"
+  },
+  "birthday": "1990-12-24T00:13:20.436Z",
+  "ip": "190.49.109.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Lin noata no agna jowwa lop asjaig roc fologu kipe ha vu. Teori tagkichil zusnotit arbevav do evaogtev uguce abolu zakez op ku weomwes. Kahazum sa zovi nid vuroz ligvav wiikbis ur oja felfoto keficiba bu.",
+    "bio": "Ovumezjir evamo li abi gilacgu puon weina codruhal om mafew golmelnu calajaw ajosudo dumiw zuv beguge. Elatufaz wik iwzostin letah sopcuako gealli du jibecvew kuguh kiuv enmore ek fec gojdiv ufucowza egaheb. Nudhac si ratuja luz icoedov nakkavman zuic wegotde zorikgar gupniga wobud sucamemec bodocuf omerahbug fup. Gudo lob ketebuse aneto midbo kur wi setfigo kibapawu gankobec cujevobar bubhipfeg. Ju vonlum agavi suzeliro wulmasra muzed ohga duwza iwa lejvu ohatotte mikogke fel hesfifno. Nejange gadwi rasvod ihac na juluj za cona hiho ujuwu ho tof zoh kif fafmemide. Meper ad gaz ja tuije jiz ul ipmu coludar tacurac gazitu ida bo to kel."
+  },
+  "apiKey": "0312d856f11dc8152357d4d74a3170f9074010babc21146bb29e37ff30ea42ee",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}

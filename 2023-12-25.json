@@ -1,0 +1,26 @@
+{
+  "name": "Shane Smith",
+  "age": 49,
+  "address": {
+    "street": "Koguk Plaza",
+    "city": "Mawwuvsip",
+    "state": "MN",
+    "zip": "15173"
+  },
+  "contact": {
+    "phone": "(477) 659-2439",
+    "servicePhone": "800818128"
+  },
+  "birthday": "1974-01-17T02:38:54.931Z",
+  "ip": "169.95.107.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Meb erpem for diajuke esomaj ma guggeac johef tanakot nus lurdav gir ruzfer buodnij. Kujuz rembidno vo wu udoteluw zovharvi akieho ifvek gowsad huvki uv jesum nop date use tousofal. Jefbitwom hagursiv lozolene aji loveoha gefiiro gunpe wikdopub otmurog tal daz jor kep zicewje.",
+    "bio": "Rudnugo owa cewibfo divet obevodu acaov en hokusoz ifa riltohil heczawu ris dip. Nisekge wuosoub ju le luceblu sase tawwo ju peofub el jaub oneefihuj. Riwipe das cajos kezcij zuif omwig akjekuni ahzohil medlu ceho ti sizfem hotucu luodbip arrapek zug. Gebdegmop veglubiv cib ro wufi wo bobadeh ete ku pu ika ecoc ruliro el ojcaj cotosila. Jez ke owub wul godotliz ig vobuse dugfoh atwadlu po ozcogge ulsurig cilo he tap. To givo jis lanobno mujfaule al ifivo datese oko ir oslot ku ep kuja nimeb vadguwcis jakitwe koukadik."
+  },
+  "apiKey": "05b6d7bfc6b835589ecc19f923ad2fe4bd9e2d7c1fb111874a5e83fa16cdb8f9",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}

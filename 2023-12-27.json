@@ -1,0 +1,26 @@
+{
+  "name": "Henry Fisher",
+  "age": 65,
+  "address": {
+    "street": "Sekvat Drive",
+    "city": "Colaric",
+    "state": "AL",
+    "zip": "23045"
+  },
+  "contact": {
+    "phone": "(412) 657-7482",
+    "servicePhone": "800711579"
+  },
+  "birthday": "1986-02-25T21:39:01.136Z",
+  "ip": "86.176.47.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Uk hojocos itupad epa acago harodeh ta ri ciboc kad vatkiud fub ule pu. Aveav de ra nahjav hofret baaza lesmer je guthivom ne ihgomgus vaj lihbusugo apwo. Pug zuacefev zih tifzus caarili pufufu ogzic uzgiv orgo ivo nig har. Hugkir tonuj lofozon ap udevituzu tujuj di afizocje bage huh kukwiuf opjenvuj kegwida cioh ze tiden. Coznimeh on cakun jepesoj bu letpowgun bujuf pogrezi to vagobiv raf irjafipu.",
+    "bio": "Falwuttuh umtadis git nuecefi poed baffifso duvu ahfolip zinzu cisulcoh furicva sima ha va mevla. Pop rakwo ca riuz tutjez guzdu evjifceh ku solze reolari gecuwuf so zinato. Doref vapinbi vefhejo kenhup ci acnu kowhite zopjofmu re remak si todohe mud vukzitdok tum ib."
+  },
+  "apiKey": "c774554235404d33eb3b15e273e57e735647861f29e1a75083be262d8ea907f1",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}

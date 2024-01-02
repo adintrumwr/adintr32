@@ -1,0 +1,26 @@
+{
+  "name": "Esther Keller",
+  "age": 44,
+  "address": {
+    "street": "Muodo Point",
+    "city": "Pesohlif",
+    "state": "MN",
+    "zip": "87288"
+  },
+  "contact": {
+    "phone": "(970) 611-1761",
+    "servicePhone": "800528465"
+  },
+  "birthday": "1992-05-27T08:48:52.047Z",
+  "ip": "225.235.70.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Nitkak agnow rodve bogge fauctu oboto lujkode fa bedo jifad nangope opoj akesegvo fengobde nivlafut. Firu fed pahhijlo zebmun zemo muapbed egucu oli eh vetwep wuenute funmadi. Gic tetodi voplofo se me be afu usafi gadol sabbo nohufpi enonoke megu daf olauc. Of kalufcoh curtuj so zuhow fa elnirri sodnu lubcec vi mapihono pov fu.",
+    "bio": "Oltefsa zikumi so bor nohcu uzuve wurecal if mej iso bur pub siso lu wognalve kanse tup fahebzuv. Vewmazij lepu giru ur tut otvo ew saz nuw mew tizutse sav dufisvat wizakluh zi zeh. Ka pike firebmud moc gidhici agici pom animup hocugdez pe jibjel ko ca. Cef loghu wozwis wemlo ki no fammu ab ibweir du abe hadi gizen rusu vuddukuz azi la ovi."
+  },
+  "apiKey": "01d3ff2e41bfba220fb9e479b9d3a5695ddb474f8a930af4e87decb25cf2486d",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}

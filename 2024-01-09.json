@@ -1,0 +1,26 @@
+{
+  "name": "Danny Webster",
+  "age": 29,
+  "address": {
+    "street": "Fasho Ridge",
+    "city": "Zarvoubu",
+    "state": "PA",
+    "zip": "59021"
+  },
+  "contact": {
+    "phone": "(627) 698-7137",
+    "servicePhone": "800349667"
+  },
+  "birthday": "1963-04-16T23:19:14.698Z",
+  "ip": "24.218.254.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Mukibur ig gorcuipo dotpe juvuew jo lunahos kam jir re lehonmi ideomevat seglu jivulo dub gemuntez. Lazelba tajgeete li sutat der lundema wiv ebu uvaha lu ruhfuwdu sifce akurusbu ki. Zu otpaloc vu ifvartof ikedakil hota rouva ral ra lu onaw coekecih becwibecu irifeko.",
+    "bio": "Asiti ni fusizso zesluum lehu zukoskub ivdusel in obi ogwoob hor palro kotugen juw fe la. Jor gevbow futos lifmofi tol ku lehcil uhevomwu bedla ameje pan apoahi bovtaw. Fameku firpupun suni wi zilaob mupa dimpa rip aduisite wot sac wicehkud. Pardijpud bosi jirlate her gil icasim renofu onedacka ewoel felut romug ero wal."
+  },
+  "apiKey": "2f0665a209e9b6590a645fd4d8555c44b96f1f850ebe8799ce3f8771c0b6eeab",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Jason Brewer",
+  "age": 26,
+  "address": {
+    "street": "Nuut Highway",
+    "city": "Sikkajvos",
+    "state": "OK",
+    "zip": "35584"
+  },
+  "contact": {
+    "phone": "(646) 630-2606",
+    "servicePhone": "800922649"
+  },
+  "birthday": "2005-05-02T16:16:30.888Z",
+  "ip": "239.173.32.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Hibik sokovse fem hem oj sudah ona haba kufozi gukhoc dis ijigemvu. Koki de vid nonuroug ewatugo gan gorarzir av dotapi muze towmiw kecojoze muktizisi. Mu fagjogev hukrignit kilgalub legfonan no vaf zupufopid la gehnabik ahpug uneisfes jelilug jawtiw. Pivzov se pa izbamjul baw nuuv maz radizzel lavwugmam ezba wejeklom siagoz hu virjeipi cuvve. Lunre fuwli zighali oj vujopvof sov fij oci noh asepe bov emugoc. Vowace vabebon sagahcuz goaf ve womir gedih ejfap onaje gushabivu nelawiv rilrebi dohes dut wif.",
+    "bio": "Gevdoid mawsol reszak fuwti oheopief hibmesip ceze unokope tosaziso bo wajoref fij uzicim. Tow gez pedtavfa va vu emsituk rugadib bozisaji si mumeksah efu vapbej huice. Su rut fesopma ked kosrujoc mu saile we milbuoko wubatre konlaf hodtijko napdok okzomvep ube suebi. Vug kagumkij dudufi tav vazez dah ko hikviggo rizwefen wajah suh bocicini racotom apsari uhomo. Ozi nop cuciidu buc fucitog hufafti utotefwu ev lo pij nokadva poh unfuv."
+  },
+  "apiKey": "cb1cb026d497205f9da48fc34e7d8e89ce76ec31f8143b2bac4aaefbcac451dd",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}

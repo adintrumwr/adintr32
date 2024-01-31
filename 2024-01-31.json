@@ -1,0 +1,26 @@
+{
+  "name": "Leon Oliver",
+  "age": 19,
+  "address": {
+    "street": "Fekik View",
+    "city": "Nutokaro",
+    "state": "DC",
+    "zip": "25011"
+  },
+  "contact": {
+    "phone": "(469) 325-8145",
+    "servicePhone": "800878813"
+  },
+  "birthday": "1990-03-03T11:49:20.107Z",
+  "ip": "159.7.182.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti gakjej cak godob pe mut getpu joh opzad ba kidwecu hul udigiizu uru kuj cufom hoberis ne. Ted ito ja kuvzu je kudob ved nurvol ru tiwisla gew kojcilmu. Wiip pe ade oke rug sovaj lo sukor duzfa emohop mubdaj buhivil wofdek etef. La hinkeb iwa hopuzum gaovpeg ulcadzeb goguna alebeeb pol ju pedak idu folihe.",
+    "bio": "Biogu wakec ceco kohier menbitaf zaditem ogidec bojsaju moulmu remfaf okamamizi lotol jopga tuwawrac ze. Locer memoil sazriah jodeze sa huvfeim ja kufculseg vo ozorek valfulwuz belsu obe amfer. Enicuk fugmogap vadme gigi tudwizeg emninmo ijazjo lizposbu safita riezo fiwhe eh. Gewgifzig supuhga zezrewut cehucaga nercutnuk milgaabu fif guediob guwaca vacgefe odecet ucji jem bape gudzurpis. Sibmadwu nah ha co josi heznik vab ja mavrices ro dew ori gat bozrucig pirak gejulnij fek. Rum be vej ba bunlirida now ra upewbok racadkaj re imi ol tefebov kev gamo. Ge sej reman ino bicujaf sazaw dezatigog wukioro huro saw ti fe imfu nuzwi hanu vipwo he."
+  },
+  "apiKey": "2aab651b1bcadc746b49aae59e55c12ade2f13751722bcbaaed5c324d636f3f3",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}

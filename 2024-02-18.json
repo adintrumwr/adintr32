@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Schwartz",
+  "age": 24,
+  "address": {
+    "street": "Gimen Terrace",
+    "city": "Affele",
+    "state": "MN",
+    "zip": "06549"
+  },
+  "contact": {
+    "phone": "(758) 488-9494",
+    "servicePhone": "800291358"
+  },
+  "birthday": "1965-07-07T04:10:33.805Z",
+  "ip": "92.210.91.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Voj ve ot pitu cu kiabu zak tinat wilolo tuwru guwwaod fojgeba mob pibcut gecruso puritki egivuwwir. Jorlis opu fafot lo potgaw lamidaer ce hur rivciki cinejam fineb nircieca okelo. Teme je bigbar diumori dan neazason ziwuoc pantilvo lol seovu ig soacoge mive.",
+    "bio": "Bol wawus imke dil hajew vicedeg vihice ruhu firwog secozu vefkokhum itepav culiji nezo geme julfal. Lizducew meveciz rakifho votha oga gublepve zom iv pusocoja gopak opsone lopepbeb kolhig dub. Lina heberet sol pa kasiwi miikgu zef etnin macpozul wacvussa hajoh ref viaji ri babjejo pulgi gur."
+  },
+  "apiKey": "681eb5abb8641df7e30f06b8b7b6a52cb01a6452cd0d86876b94571a2137f955",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}

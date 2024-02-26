@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Carter",
+  "age": 57,
+  "address": {
+    "street": "Macu Place",
+    "city": "Mohabumo",
+    "state": "NH",
+    "zip": "83272"
+  },
+  "contact": {
+    "phone": "(877) 387-4721",
+    "servicePhone": "800988137"
+  },
+  "birthday": "1977-06-14T10:31:58.475Z",
+  "ip": "199.242.41.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Bi pot sewdi du ure werfiabi vol oktawi olcuiko liic va se. Wawuf robehwug turuno goge garjifgu rawjevbos sacteg pusew pab igwow sarciwe iganibi so zup dawik ca wamza jan. Hutup petna wefo kiwtehuc koz eleodzi sobaca celu am hu cif vegci. Ekumuwu iboliso carvuica camu go zozgo huwpedet fu okmap kihabiec pegazwit rofnezav.",
+    "bio": "We te kovudgu oragu obo veh rib bi ru eklezek tel judevna kotu netupuk. Pinnoka cebag baizafe hosih bazo okmi ecusonag zedka sazan fochu deotuta ro jejo fojuz kacke kucupo if. Samhu vitu viul pauv zel zuwibe za pipeelu duem osenisotu nitas edicawja."
+  },
+  "apiKey": "e4e3c8a8ca4c49bb768a16aa2c611b6c55793e1bdbd11aebe82ae3bedff70e80",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}

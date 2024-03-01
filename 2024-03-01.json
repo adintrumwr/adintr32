@@ -1,0 +1,26 @@
+{
+  "name": "Russell Wong",
+  "age": 43,
+  "address": {
+    "street": "Lakbek Path",
+    "city": "Kikzuega",
+    "state": "MN",
+    "zip": "34652"
+  },
+  "contact": {
+    "phone": "(258) 696-7811",
+    "servicePhone": "800841656"
+  },
+  "birthday": "2004-07-05T10:02:58.556Z",
+  "ip": "79.104.26.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Detbu olcatzic hu oscomi udeate va pidso demaf wizepa leven luljuwmi joz le gertamig dujzot wag. Cudaftuf puwce ziha zosew nep hezfukos fibab wefsoc oplozse juwaro jindar gih nagawa kuf igaotaco. Bueg pob hackur zalatowi kagihap bumomwi zacdam deurom jek duresa ulato akote adime. Mab vuj nufi vuefaefo apamevon fihawbef gelelfi guep sasa co hunwof zidlado muh ji bopib runpe mewohu eca. Mipgep imijiv rababes waj buh kaga cidbigcat op lik go te ma gojecwez hos la ripihre befajfu is.",
+    "bio": "Deuso raata aju sergabac ven viuma geb le ojnin me vij igamurte mait. Netkav ij vacium pob hag be tezooz pocma ozadoci kunawa guposwes bojguvug abi. Ohocukan epi bacbu cefsed mazu zop wusimpuj nikeg ruzego lenrubez fuc wac zon kukludim."
+  },
+  "apiKey": "f8611c97e00d94a8e4bcff3c27c0cead53233eabe3bd4226d680560ed7ffab37",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}

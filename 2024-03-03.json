@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Wong",
+  "age": 53,
+  "address": {
+    "street": "Kiho Way",
+    "city": "Pijujwa",
+    "state": "MN",
+    "zip": "34960"
+  },
+  "contact": {
+    "phone": "(604) 863-9000",
+    "servicePhone": "800539427"
+  },
+  "birthday": "1972-09-15T11:42:08.327Z",
+  "ip": "248.248.36.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Edsita mellemrot nactewen puso hiawhu coehni hupposbog hir hajnanu cavo zotittih rur hu nej wer ruecu. Aliolo ulebisvi ad haflo tuidi hukloove woahadoh jamo atusora holi bozza gevpa buh igi woki budeki. Govop jevlicob laplez fizuip mudu ufhohab dufe codsa wiloza op ofoutaaz cisguvcir paddepok puomgob panam vasacpuv.",
+    "bio": "Kiutufu kiom dih udo tuwuhka tuko juv wotuna afevalin vevba helfabe lik pofi fe to rizvozkas. Loczooki passa fophale igasu bodeje kigomo bofucwer kuwubgab puhni soso dog so mijunaef tepvo. Ja hu dumacdus fa kotsavle fitwesik zowbez rotrefbu dome ago gisibpum lu zepopi. Hibocpo venipuh ivse fuvtunac vi liseho aja bu ro lotivuw dafsep gono toldac lu vik. Lehtu uvetutuja divik gisop ajpo zuvjon tumgomoni mi nahle lapeuc aga halitse kab go uf fegiade wogid durerci. Iwigu efus raofi kic toganaka romuse mah saczilef ni kuborgih na bag. Ew ros ani bico von pinhofpuc hamsumen askag jaedajo or bihip laebnu."
+  },
+  "apiKey": "5e3a7ddfa703211c297687d71d53fef906f4d47c6cd49fb1f17456bd65ebd252",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}

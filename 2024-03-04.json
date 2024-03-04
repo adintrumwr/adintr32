@@ -1,0 +1,26 @@
+{
+  "name": "Sophia McLaughlin",
+  "age": 31,
+  "address": {
+    "street": "Pihke Extension",
+    "city": "Lauravab",
+    "state": "SC",
+    "zip": "03330"
+  },
+  "contact": {
+    "phone": "(253) 289-9052",
+    "servicePhone": "800621171"
+  },
+  "birthday": "1998-04-12T09:57:19.148Z",
+  "ip": "194.250.107.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Picusdir taded ugu egapa mi nomeje jozmoru dilvuuc firace hup kuus oveju ik. Lawezaz tefnuvun kokiwuk moid wu ur oteurno hevok niid wujugeb mobusi mifzotub ko dibred mupuziki mip tirhiskom. Ufwi law bovov ipo vimcaka jedrepa fos mimdi vovdijfe kuvugu puki okmivaf.",
+    "bio": "We kig ogizo aroj gekmo imocu vujnubuf egeduparu ombav inazunnim nuwievo pefag tucca dowugu geliivi do wa. Ozevaacu mimho zu uhhifiw vadul vites wopfuz ahumu toju du dipponi dasi rit hur uwukol imikir. Suttico elrib fozofah bupu cekozci esuvi dico as putfizpu pihvefum aboaw hev avraitu osku nucbiv mudmu."
+  },
+  "apiKey": "a4364d35f719b29d12da47834563450ee8b3bea2434ae34d5aebc67258152e60",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lewis Fleming",
+  "age": 40,
+  "address": {
+    "street": "Gari Point",
+    "city": "Gokihnaj",
+    "state": "MD",
+    "zip": "46526"
+  },
+  "contact": {
+    "phone": "(325) 839-7717",
+    "servicePhone": "800293164"
+  },
+  "birthday": "1994-09-16T22:02:57.384Z",
+  "ip": "218.117.171.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozojog apetitod pebepugo kimzu viwojuf tipi hivmuv cibu hun roece daidse futolo idwajlu. Havvu idesajsef tevhuj ul we zen hobga wi jusic ciszekle guj taz ru tincawe baeftin. Viosjek ew juoceti wu ivturda ise taspaz ib hazfa sod zuboko hebburo wadrubbic pod. Ovegak ithokhil tukuawe del afosara igelumiw ectojep uso si fupi buzev muiki ow bid. Si ge uterittit serfi jirizel waabi nelfe li lun eluod jen zer oczem nivob. Na tahuc ruh fidoizo fuusi begzov bog redenole wogco akon pi kon ho pek.",
+    "bio": "Diz am duzham fulserrod veporu esga lum inowva di wutizurap zu to orbu behin. Ticva getfov de fonhimij wu opi jeb dal lepciggus ligbifsan zedjoj hidaj daknuuga newuj ka. Etzu pagafi fep jupef guwtop zirohto ah cu hic kul je ciwbe wosuv ajerica woukvu."
+  },
+  "apiKey": "4f2eeeafc6c7fed528dcd86f48a3edd2ef3c900460c7b862a94a2ec4f6f81546",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}

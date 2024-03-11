@@ -1,0 +1,26 @@
+{
+  "name": "Mamie Morgan",
+  "age": 62,
+  "address": {
+    "street": "Ujahub Parkway",
+    "city": "Osezuro",
+    "state": "AR",
+    "zip": "44818"
+  },
+  "contact": {
+    "phone": "(920) 333-7359",
+    "servicePhone": "800884333"
+  },
+  "birthday": "1996-02-20T12:41:33.788Z",
+  "ip": "253.129.251.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Isivi marapabu fehfu celi ahasbik tahog kugiv caki joj saeseca alla sagu fatimbo coderu cej hejuub veku gojwe. Foj low si lefcezuh ra erazelo wuldobgu ib ofiicu ru sofof ilera obasud mobunuw osozo. Avkaop neb gucwokgom rurte puam coclanvu inu cirmopof agbatto lid liclusne wusvefsu umetidmi epozov va fetot.",
+    "bio": "Defuhza owaukjur ik rofo torik nelovu feabiva wi nujojuz puru zerege lucti. Ur vohtegoc gifagbih kisjifka do jumuuze le cew emomefar juksusiv sahi oku vuicituk. Tater toruul zopolaew pulzeve om dohekogev ijcefah su vec vudaabu michih oso az ce co."
+  },
+  "apiKey": "1022e8d50656c565483a71baf73f61ebfcbeaefd8c2c91414eaf5594a92f7e60",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}

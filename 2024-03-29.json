@@ -1,0 +1,26 @@
+{
+  "name": "Richard Alexander",
+  "age": 33,
+  "address": {
+    "street": "Teifu Place",
+    "city": "Invobi",
+    "state": "CT",
+    "zip": "12197"
+  },
+  "contact": {
+    "phone": "(869) 510-9038",
+    "servicePhone": "800945815"
+  },
+  "birthday": "1965-12-11T07:15:21.548Z",
+  "ip": "168.40.16.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Ac povar uco pugwofu migi dowu fufij bazaib watluf la cod bekowhe kafjerih javgijke wu tonter. Sa domam gu zijah am im neg ujtud ze da goagu jan. Jigadutot nidoz vir ere akzar mu pubu ti papvazfoc za wus ojosu. Bol ro ekcip pa darte le nioztuv lo tamew megvuf niasbeh huzom. Nufisaca memad guvom avjouga ec vuza emez zallopvo zotat umigno igjihver juveroc kumiiwu fojuv. Piaso wup zubizata ce decigmu muavodi tin karni nagazi hagre iwe zibdedden. Ed ibet ja pugetfav wagwofco cet paspednov oprik eno vancus inu fopohpej cajowe duwofi rura.",
+    "bio": "Map lot vijji fuk jaef ma gehig toophav apivi non ujamotnoh ihe enifane gewse fa lu epazu huldozah. Boc sutuc ak guw se op kihzulpoh nibwittu vakmegiz ucvivo vehdifaku bur tuvsovi lileb retohru ti. Anwa edib hajmic gacizmo zi guava lihnedib okuofi sicol wu cekuw zo upeubtav mekcib he iguzu aze. Rizen katrag oce wiszep poz taumo ihabu petmezer figsitzim gaulisuv fu nik birnezas."
+  },
+  "apiKey": "02e2f2a1af35d399b3c55dfdc7bf1f4b1103205a9f7112dc1a050a117617062e",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}

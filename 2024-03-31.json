@@ -1,0 +1,26 @@
+{
+  "name": "Sam Flores",
+  "age": 25,
+  "address": {
+    "street": "Bakto Plaza",
+    "city": "Apavimi",
+    "state": "RI",
+    "zip": "57840"
+  },
+  "contact": {
+    "phone": "(658) 876-4815",
+    "servicePhone": "800748512"
+  },
+  "birthday": "1962-03-01T12:20:24.283Z",
+  "ip": "40.34.237.100",
+  "foo": "bar",
+  "profile": {
+    "about": "But logug ere gehbe zirjuse sinime naswuvca kereef biju kobof wafujfur no hirdegab bi jat aw. Lo ahbo na suscuso silazedi daki set hob unohe umtot pu pudja me pi jorvew at. Emamu ufnabij acurep ifo pac emlimu agi bejikbi hujed ozoodvo hiho win we hewem nu su edoada. Odos nihtot lipemid racuh rekciz egudup sukro jaeve zazul onvop mufisar wez iveef rez. Wuz pulraena cibvofehi ajoahaga fadoj casu nifen waruzzi fifiike puk nal cuz hu ajaod jehuuwi je vewobkov.",
+    "bio": "Ze votujzuk goli rurawab wuimozi detu velke mioj mozoma te ro obhun gir. Vowanudeg virufup difure li lut wezav rulsovwuf ohu taov bo ujre jempi hom. Helo hi tenco bacvu nu vaz tun werindan ruosnen dahbuwjap ezacac at kesuvepa tocizu jicnul uzige pomino azure. Rocihaka ru fowud kude uti zadlasimo di sal vor mati wakleare hode ge wijosza wa ju sufovke zilju. Vad hurtep efhujwom cemu dot tujure zasugib runfukzoh nac kivawawed si be ar okjun sabaz kewkavpu."
+  },
+  "apiKey": "45a9217f2d4398c87814a64df871a1ed2ba3c5a2161a22d57c6b0bbdae791a52",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
